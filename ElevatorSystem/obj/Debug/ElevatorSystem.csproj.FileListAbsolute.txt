@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\ElevatorSystem\ElevatorSystem\bin\Debug\ElevatorSystem.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\ElevatorSystem\ElevatorSystem\bin\Debug\ElevatorSystem.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\ElevatorSystem\ElevatorSystem\bin\Debug\ElevatorSystem.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\ElevatorSystem\ElevatorSystem\obj\Debug\ElevatorSystem.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2015\Projects\ElevatorSystem\ElevatorSystem\obj\Debug\ElevatorSystem.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\ElevatorSystem\ElevatorSystem\obj\Debug\ElevatorSystem.pdb
